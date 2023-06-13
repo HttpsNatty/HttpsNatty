@@ -1,4 +1,4 @@
-# Boas Vindas ao meu Perfil <i class="fab fa-github"></i>
+# Boas Vindas ao meu Perfil
 
 ## Sobre Mim
 Olá! Me chamo Natália e meus pronomes são ela/dela. Sou formada em Criação de Games e atualmente estou cursando Física. Tenho uma paixão por unir a criatividade dos jogos com os princípios científicos da física. Com experiência em desenvolvimento de jogos, sites, software e robôs, sou conhecida por minha aprendizagem rápida e capacidade de me adaptar a novas tecnologias e desafios.
