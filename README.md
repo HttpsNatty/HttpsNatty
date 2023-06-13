@@ -15,11 +15,17 @@ Estou sempre em busca de oportunidades que me permitam desenvolver meu potencial
 - [Projeto 3](link-para-o-projeto): Breve descrição do projeto destacado. -->
 
 ## Habilidades
+<div align="center">
+<!--   <a href="https://github.com/HttpsNatty">
+  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=HttpsNatty&hide=prs,issues&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HttpsNatty&layout=compact&show_icons=true&langs_count=7&theme=dark"/>
+</div>
+
 - C#
 - C++
 - PHP
 - Lavarel
 - Vue.js
 
-## Contato
+## Me encontre também em
 <a href="https://www.linkedin.com/in/natalia-san/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
