@@ -22,4 +22,4 @@ Estou sempre em busca de oportunidades que me permitam desenvolver meu potencial
 - Vue.js
 
 ## Contato
-- LinkedIn: [Natália Santos](https://www.linkedin.com/in/natalia-san/)
+<a href="https://www.linkedin.com/in/natalia-san/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
