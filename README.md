@@ -24,7 +24,7 @@ Estou sempre em busca de oportunidades que me permitam desenvolver meu potencial
 - C#
 - C++
 - PHP
-- Lavarel
+- Laravel
 - Vue.js
 
 ## Me encontre também em
