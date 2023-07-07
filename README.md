@@ -7,7 +7,9 @@ Hello! My name is Natalia, and my pronouns are she/her. I hold a certification i
 
 ## Habilidades / Skills
 - C#
+- Unity
 - C++
+- Unreal
 - C
 - PHP
 - Laravel
