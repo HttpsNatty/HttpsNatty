@@ -20,6 +20,7 @@ Hello! My name is Natalia, and my pronouns are she/her. I have a certification i
 - Saints Row
 - Sudoku
 - The Sims
+- Apex Legends
 - League of Legends
 
 ## Me encontre também em / Find Me
